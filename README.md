@@ -1,4 +1,4 @@
--# bem vindo ao me perfil
+# bem vindo ao me perfil
 ## me chamo carlos eduardo de siqueira vaz
 ### sou estudante da faetec
 - 👋 Hi, I’m @carlosVazSq
